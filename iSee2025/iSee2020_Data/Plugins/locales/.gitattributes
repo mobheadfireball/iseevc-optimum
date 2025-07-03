@@ -1,0 +1,1 @@
+*.{a,asset,bin,bundle,dae,dat,dfont,dll,dylib,exe,fbx,jpg,ogg,pak,pdf,plugin,png,prefab,psd,so,tga,tif,ttf,unity,unity3d,wav,app*,framework*,bundle*} filter=lfs diff=lfs merge=lfs -text
